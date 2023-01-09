@@ -1,0 +1,14 @@
+[
+    {
+      "name": "column_one",
+      "type": "STRING",
+      "mode": "REQUIRED",
+      "description": "description one"
+    }
+    // ,{
+    //     "name": "column_two",
+    //     "type": "STRING",
+    //     "mode": "NULLABLE",
+    //     "description": "description two"
+    // }
+  ]
